@@ -1,8 +1,5 @@
 # 🐍 Python Assignments – Data Analysis
 
-This repository contains my **Python assignments** from the Data Science course.  
-Each assignment is exported as an **HTML file** (from Jupyter Notebook) for easy viewing.  
-
 ## 🐍 Python List Programs  
 
 This repository contains simple Python programs demonstrating **list operations** such as sum, min/max, empty check, count occurrences, sorting, and nested list check.  
